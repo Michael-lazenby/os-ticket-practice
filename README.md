@@ -31,7 +31,7 @@ In this project, I go through the lifecycle of a ticket from intake to resolutio
 
 </p>
 <p>
-This is the stage when a new ticket is created. Two common ways in which tickets can be submitted is through a form – such as the one shown heree,or by emailing an email address that is designated for tickets. In this form, the user provides their contact information, the issue, and a place to provide relevant details.
+This is the stage where a new ticket is created. The most common way for a support ticket to be submitted is, through a form – such as the one shown here or by emailing an email address for IT tickets. In this form, the user provides their contact information, the issue, and a place to provide relevant details.
 </p>
 <img src="https://i.imgur.com/i4AshwG.png" height="70%" width="70%""/>
 <br />
@@ -39,28 +39,23 @@ This is the stage when a new ticket is created. Two common ways in which tickets
 <h3>Stage 2: Assignment</h3>
 
 <p>
-After the ticket has been submitted, the ticket can be assigned to an IT professional. In order for the ticket to be handled properly, information regarding the level of severity can be changed. For this ticket, the Priority was changed to “Emergency,” the SLA Plan was changed to “SEV-A,” and the Department was changed to “System Administrators.” The ticket was also assigned to “Jane Doe,” who is an administrator in this scenario.
-</p>
+When a support ticket is submitted, it can be assigned to a member of the IT team. You're able to change the severity of the ticket, and this determines its priority. For this ticket, the Priority was changed to “Emergency,” the SLA Plan was changed to “SEV-A,” and the Department was changed to “System Administrators.” The ticket was assigned to “Jane Doe,” who is an administrator in this scenario.</p>
 <img src="https://i.imgur.com/udF7e9W.png" height="70%" width="70%"/>
 <br />
-
 <h3>Stage 3: Working the Issue</h3>
-
 <p>
-Now that the ticket has been assigned to the appropriate department, the IT staff can work on finding a solution to the issue. Each time a change is made to the ticket or there is an update to the situation, a comment can be made in the Ticket Thread. This allows everyone viewing the ticket to be aware of what has already happened and facilitates communication between everyone involved.
-</p>
+Since the ticket was assigned to the appropriate department, the IT staff can work on finding a solution to the issue. Whenever there is a change to the ticket, you can update the notes so other people in the department know what changes you have made.
+                                                                   </p> <img src="https://i.imgur.com/5MToBkI.png" height="70%" width="70%"/>                                                              
 <br />
 
 <h3>Stage 4: Resolution</h3>
-<p>
-<img src="https://i.imgur.com/bGBEWM7.png" height="70%" width="70%"/>
-</p>
-<p>
-Once the issue has been resolved, the ticket can be closed. In the osTicket system, the ticket will move from the Open section to the Closed section in this stage. For IT professionals, it is important to know where to find closed tickets since they can be browsed and used to find solutions to open tickets.
-</p>
-<br />
 
 <p>
-✨ Those are the four stages of the ticket lifecycle! Tickets are an important part of IT, whether you’re working in helpdesk, systems, networking, security, cloud, etc., so it’s important to be familiar with how ticketing systems work.
+Once the issue has been resolved, the ticket can be closed. In the osTicket system, the ticket will move from the Open section to the Closed section at this stage. It is crucial to know where to find closed tickets since they can be browsed and used to find solutions to open tickets.
 </p>
+ <p>
+<img src="https://i.imgur.com/bGBEWM7.png" height="70%" width="70%"/>
+</p>                                                                       
 <br />
+
+
