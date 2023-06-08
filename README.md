@@ -28,28 +28,26 @@ In this project, I go through the lifecycle of a ticket from intake to resolutio
 
 <h3>Stage 1: Intake</h3>
 <p>
-<img src="https://i.imgur.com/i4AshwG.png" height="70%" width="70%""/>
+
 </p>
 <p>
-This is the stage when a new ticket is created. Two common ways in which tickets can be submitted is through a form – such as the one shown here – or by emailing an email address that is designated for tickets. In this form, the user provides their contact information, the topic/issue, and details about the issue.
+This is the stage when a new ticket is created. Two common ways in which tickets can be submitted is through a form – such as the one shown heree,or by emailing an email address that is designated for tickets. In this form, the user provides their contact information, the issue, and a place to provide relevant details.
 </p>
+<img src="https://i.imgur.com/i4AshwG.png" height="70%" width="70%""/>
 <br />
 
 <h3>Stage 2: Assignment</h3>
-<p>
-<img src="https://i.imgur.com/udF7e9W.png" height="70%" width="70%"/>
-</p>
+
 <p>
 After the ticket has been submitted, the ticket can be assigned to an IT professional. In order for the ticket to be handled properly, information regarding the level of severity can be changed. For this ticket, the Priority was changed to “Emergency,” the SLA Plan was changed to “SEV-A,” and the Department was changed to “System Administrators.” The ticket was also assigned to “Jane Doe,” who is an administrator in this scenario.
 </p>
+<img src="https://i.imgur.com/udF7e9W.png" height="70%" width="70%"/>
 <br />
 
 <h3>Stage 3: Working the Issue</h3>
+
 <p>
-<img src="https://i.imgur.com/5MToBkI.png" height="70%" width="70%"/>
-</p>
-<p>
-Now that the ticket has been assigned to the appropriate department and people, the IT staff can work on finding a solution to the issue. Each time a change is made to the ticket or there is an update to the situation, a comment can be made in the Ticket Thread. This allows everyone viewing the ticket to be aware of what has already happened and facilitates communication between everyone involved.
+Now that the ticket has been assigned to the appropriate department, the IT staff can work on finding a solution to the issue. Each time a change is made to the ticket or there is an update to the situation, a comment can be made in the Ticket Thread. This allows everyone viewing the ticket to be aware of what has already happened and facilitates communication between everyone involved.
 </p>
 <br />
 
